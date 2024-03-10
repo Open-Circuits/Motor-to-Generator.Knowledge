@@ -5,3 +5,7 @@ sch: https://www.google.com/search?q=induction+motor+to+generator - [500 An Indu
 
 ## Alternator
 - [12v 90 Amps Car Alternator to Self Excited Generator using DIODE](https://youtu.be/dlvGYFB6AqM)
+
+## Brushed Motor
+- [Converting A Universal Motor ( Washing Machine, Drill, Saw ) To Generate](https://youtu.be/rQhD7hLTipI)
+- [1523 Universal Motor For Wind turbines](https://youtu.be/gJrpwhBHpVM)
